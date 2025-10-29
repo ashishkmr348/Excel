@@ -57,7 +57,4 @@ The dashboard is built using sales transaction data stored in:
    - **Time Period**
 4. Explore interactive charts and key performance indicators.
 
----
-
-## 📂 Project Structure
 
