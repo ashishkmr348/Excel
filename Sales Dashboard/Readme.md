@@ -1,5 +1,9 @@
 # 📊 Sales Dashboard – Product Category Performance & Profitability
 
+
+ <img width="1870" height="629" alt="image" src="https://github.com/user-attachments/assets/83900e17-4512-475f-9288-18773f261483" />
+
+
 ## 🧩 Overview
 This project presents an **interactive Excel Sales Dashboard** built to **visualize product category performance and profitability**.  
 It provides key insights into **sales trends, regional contributions, and profit margins**, helping business stakeholders make data-driven decisions efficiently.
