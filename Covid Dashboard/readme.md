@@ -2,6 +2,9 @@
 
 This project contains an interactive and well-structured Excel Dashboard visualizing global COVID-19 data. The goal of this project is to transform raw data into meaningful insights using Microsoft Excel’s data analysis and visualization capabilities.
 
+ <img width="1360" height="681" alt="image" src="https://github.com/user-attachments/assets/d566b54a-8859-41f6-a4c1-a9105a50747a" />
+
+
 ---
 
 ## 🚀 Features
